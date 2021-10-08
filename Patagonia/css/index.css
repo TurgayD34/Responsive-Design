@@ -65,3 +65,8 @@ main div img {
   margin-left: 300px;
 }
 /*# sourceMappingURL=index.css.map */
+@media screen and (min-width: 1190) {
+  body{
+    background-position-x: 100%;
+  }
+}
